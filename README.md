@@ -1,4 +1,4 @@
-# Welcome to Remix!
+# Github search app using Remix
 
 - [Remix Docs](https://remix.run/docs)
 
